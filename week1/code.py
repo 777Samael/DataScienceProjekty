@@ -10,3 +10,4 @@ warnings.filterwarnings("ignore")
 df = pd.read_csv("../input/heart.csv")
 df.info()
 
+df.dropna()

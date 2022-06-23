@@ -26,6 +26,7 @@ Useful resources, example: https://www.kaggle.com/code/heyrict/clinical-data-exp
 * Methods (“Description of the used method(s)”)
     * Linear regression (try, may not work, tell why) ?
     * Random forrest\tree ?
+    * Metrics (accuracy, what is?)
 * Results
 * Discussion (“Why is this a typical project for a data-scientist? (Or why not?)”)
 
